@@ -5,4 +5,3 @@
 4.type "git remote -v" to get 2 remote repo link which are push and fetch and these are the main 2 operations that we required for remote repo.
 5.Push command is use to push new changes from local repo to remote repo so others can access the changes also.
 6.fetch command is use to fetch new changes from remote repo to local repo.
-7.
